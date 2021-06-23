@@ -1,5 +1,5 @@
 # Reproducible Research
-Author: Aditya Vikram Dash <br />
+Author: Robert Numa <br />
 
 ## Projects 
 Project # | Markdown | R Markdown
